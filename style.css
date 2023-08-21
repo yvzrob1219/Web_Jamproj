@@ -87,10 +87,10 @@ form{
     text-transform: capitalize;
 }
 #show-more-button{
-    background-color: aqua;
+    background-color: rgb(0, 0, 0);
     font-size: 18px;
     border: none;
-    color: white;
+    color: rgb(243, 254, 255);
     padding: 10px 20px;
     text-align: center;
     display: block;
